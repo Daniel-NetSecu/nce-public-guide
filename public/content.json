@@ -1,0 +1,362 @@
+{
+  "2-1": {
+    "focus": "礼貌地表达边界",
+    "vocabulary": [
+      {
+        "word": "private",
+        "explanation": "只向特定人开放，不适合随意介入；private 与 personal 不总能互换。",
+        "example": "Please use the private entrance behind the studio."
+      },
+      {
+        "word": "attention",
+        "explanation": "把心思集中到某件事上；pay attention to 后面接关注对象。",
+        "example": "Pay attention to the tiny mark on the map."
+      },
+      {
+        "word": "rudely",
+        "explanation": "以不尊重别人的方式；副词可修饰说话或打断等动作。",
+        "example": "The customer rudely pushed the menu away."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "用 private 或 personal 填空：This is a ___ road; visitors need permission.",
+        "answer": "private。这里强调通行权限，而非个人感受。"
+      },
+      {
+        "question": "把“请注意屏幕上的日期”译成英语。",
+        "answer": "Please pay attention to the date on the screen. 注意 to 是介词。"
+      }
+    ]
+  },
+  "2-2": {
+    "focus": "时间与惊讶",
+    "vocabulary": [
+      {
+        "word": "repeat",
+        "explanation": "把已经说过或做过的事再来一次；repeat 本身包含“再”的意思。",
+        "example": "Could you repeat the room number slowly?"
+      },
+      {
+        "word": "outside",
+        "explanation": "在某个边界外；可作副词，也可带名词作介词。",
+        "example": "Two bicycles are waiting outside the library."
+      },
+      {
+        "word": "until",
+        "explanation": "动作或状态持续到某一时刻；not ... until 表示到那时才发生。",
+        "example": "The workshop stays open until nine."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "填空：We did not leave ___ the rain stopped.",
+        "answer": "until。否定结构表示雨停后才离开。"
+      },
+      {
+        "question": "将 Could you say that again? 改写，使用 repeat。",
+        "answer": "Could you repeat that? 无需再加 again。"
+      }
+    ]
+  },
+  "2-3": {
+    "focus": "旅行中的小决定",
+    "vocabulary": [
+      {
+        "word": "postcard",
+        "explanation": "带有图画、可直接写地址寄出的卡片；可数名词。",
+        "example": "I bought a postcard showing a green lighthouse."
+      },
+      {
+        "word": "borrow",
+        "explanation": "暂时从别人那里取得物品；常用 borrow ... from ...。",
+        "example": "May I borrow a pencil from your desk?"
+      },
+      {
+        "word": "decision",
+        "explanation": "经过考虑后的选择；常说 make a decision，而非 do a decision。",
+        "example": "Our decision to walk saved us a bus fare."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "填空：Can I ___ your ruler? I will return it soon.（borrow / lend）",
+        "answer": "borrow。说话人是借入者；lend 从借出者角度表达。"
+      },
+      {
+        "question": "改错：We did a decision after lunch.",
+        "answer": "We made a decision after lunch. 固定搭配是 make a decision。"
+      }
+    ]
+  },
+  "2-4": {
+    "focus": "行程与消息",
+    "vocabulary": [
+      {
+        "word": "abroad",
+        "explanation": "在国外或到国外；副词，go abroad 不加 to。",
+        "example": "My cousin hopes to study abroad next autumn."
+      },
+      {
+        "word": "receive",
+        "explanation": "收到外界送来的东西或信息；不意味着主动接受提议。",
+        "example": "We received an invitation by email."
+      },
+      {
+        "word": "different",
+        "explanation": "不相同；比较两者时可用 different from。",
+        "example": "This route is different from the one on my phone."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "改错：They plan to go to abroad in June.",
+        "answer": "They plan to go abroad in June. abroad 已经表达地点方向。"
+      },
+      {
+        "question": "选择 receive 或 accept：I ___ the offer yesterday, but have not decided whether to accept it.",
+        "answer": "received。先收到邀请，并不等于已经接受。"
+      }
+    ]
+  },
+  "3-1": {
+    "focus": "证据如何支持判断",
+    "vocabulary": [
+      {
+        "word": "evidence",
+        "explanation": "支持判断的材料；通常不可数，可说 a piece of evidence。",
+        "example": "The timestamp provided useful evidence for the investigation."
+      },
+      {
+        "word": "spot",
+        "explanation": "从背景中注意到或认出某个目标；过去式 spotted。",
+        "example": "I spotted a spelling error near the bottom of the poster."
+      },
+      {
+        "word": "accumulate",
+        "explanation": "逐渐增加或堆积；常强调经过一段时间。",
+        "example": "Unread messages accumulate during long meetings."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "改错：We found three evidences in the folder.",
+        "answer": "We found three pieces of evidence in the folder. evidence 在此不可数。"
+      },
+      {
+        "question": "用 spot 的过去式填空：Mina ___ a blue kite above the station.",
+        "answer": "spotted。重读闭音节结尾，双写 t 再加 ed。"
+      }
+    ]
+  },
+  "3-2": {
+    "focus": "修理与筹集",
+    "vocabulary": [
+      {
+        "word": "raise",
+        "explanation": "使数量增加，或筹集资源；raise money for 表示为某事筹款。",
+        "example": "The chess club raised money for new tables."
+      },
+      {
+        "word": "repair",
+        "explanation": "使损坏的东西恢复可用；作名词时常见 under repair。",
+        "example": "The footbridge is under repair this week."
+      },
+      {
+        "word": "strike",
+        "explanation": "敲击或撞击；表示过去动作时用 struck。",
+        "example": "A branch struck the roof during the storm."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "填空：The group ___ funds for a community kitchen.（raised / rose）",
+        "answer": "raised。raise 是及物动词，可直接接 funds；rise 不直接带宾语。"
+      },
+      {
+        "question": "将现在时改为过去时：A stone strikes the window.",
+        "answer": "A stone struck the window. strike 的过去式是不规则变化。"
+      }
+    ]
+  },
+  "3-3": {
+    "focus": "描述发现与保存状况",
+    "vocabulary": [
+      {
+        "word": "discover",
+        "explanation": "找到此前不知道的事物；与 invent“创造新事物”区分。",
+        "example": "The team discovered a narrow path behind the garden."
+      },
+      {
+        "word": "remains",
+        "explanation": "留下来的遗迹或残余物；此义常用复数形式。",
+        "example": "The remains of a wooden fence marked the old boundary."
+      },
+      {
+        "word": "preserve",
+        "explanation": "采取措施使某物免于损坏或消失；不仅是简单保留。",
+        "example": "The archive uses special boxes to preserve letters."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "选择 discovered 或 invented：Researchers ___ an old well beneath the car park.",
+        "answer": "discovered。水井原已存在，并不是研究者新造出来的。"
+      },
+      {
+        "question": "用 preserve 写一句建议，保护家庭照片。",
+        "answer": "We should preserve family photos in dry storage. 示例答案；合理原创表达也可。"
+      }
+    ]
+  },
+  "3-4": {
+    "focus": "职业、身份与称呼",
+    "vocabulary": [
+      {
+        "word": "manual",
+        "explanation": "靠手而非自动机器完成的；也可作名词表示使用说明书。",
+        "example": "The device has a manual switch beside the screen."
+      },
+      {
+        "word": "collar",
+        "explanation": "衣服围绕颈部的部分；作可数名词。",
+        "example": "A silver pin was attached to the jacket collar."
+      },
+      {
+        "word": "sacrifice",
+        "explanation": "为更重要的目标放弃某种好处；可用 sacrifice A for B。",
+        "example": "She sacrificed a free evening for extra training."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "判断 manual 在句中是名词还是形容词：Read the manual before changing the settings.",
+        "answer": "名词，意为使用说明书。前面有 the，整体作 read 的宾语。"
+      },
+      {
+        "question": "填空：He sacrificed comfort ___ a shorter journey.",
+        "answer": "for。结构 sacrifice A for B 表示为 B 放弃 A。"
+      }
+    ]
+  },
+  "4-1": {
+    "focus": "追溯知识的来源",
+    "vocabulary": [
+      {
+        "word": "reconstruct",
+        "explanation": "根据留存线索重新建立事物的样貌或过程；不必指实体重建。",
+        "example": "We reconstructed the timeline from dated receipts."
+      },
+      {
+        "word": "ancestor",
+        "explanation": "家族中比祖父母更早的先人，也可广指前代。",
+        "example": "One of my ancestors worked as a bookbinder."
+      },
+      {
+        "word": "oral",
+        "explanation": "通过口头而非书面进行的；常与 history、exam 搭配。",
+        "example": "The course ends with an oral presentation."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "根据语境填空：There was no video, so we had to ___ the sequence from notes.",
+        "answer": "reconstruct。强调借助现有证据重新推断过程。"
+      },
+      {
+        "question": "把“这是一场口试，不是笔试”译成英语。",
+        "answer": "This is an oral exam, not a written exam. oral 与 written 形成对比。"
+      }
+    ]
+  },
+  "4-2": {
+    "focus": "避免过度概括",
+    "vocabulary": [
+      {
+        "word": "prejudice",
+        "explanation": "在充分了解之前形成、且可能不公平的偏见；常用 prejudice against。",
+        "example": "The training challenges prejudice against older applicants."
+      },
+      {
+        "word": "insect",
+        "explanation": "有六条腿等共同特征的一类小动物；与泛指小虫的 bug 不完全等同。",
+        "example": "A tiny insect landed on the measuring tape."
+      },
+      {
+        "word": "destroy",
+        "explanation": "使事物严重受损而不再发挥原有作用；程度通常强于 damage。",
+        "example": "The flood destroyed the paper records in the basement."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "填空：The campaign fights prejudice ___ people with disabilities.",
+        "answer": "against。表示针对某个群体的偏见。"
+      },
+      {
+        "question": "选择 damage 或 destroy：The scratch may ___ the surface, but the table still works.",
+        "answer": "damage。轻微划伤造成损坏，不至于彻底毁掉桌子。"
+      }
+    ]
+  },
+  "4-3": {
+    "focus": "给证据留出限度",
+    "vocabulary": [
+      {
+        "word": "estimate",
+        "explanation": "依据不完整资料作出近似判断；不等于精确测量。",
+        "example": "We estimate that the repair will take two hours."
+      },
+      {
+        "word": "depth",
+        "explanation": "从表面到下方的距离；形容词是 deep。",
+        "example": "The sensor records the depth of the water."
+      },
+      {
+        "word": "explore",
+        "explanation": "仔细调查未知区域或可能性；不只用于实地探险。",
+        "example": "The class explored three ways to reduce waste."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "填空：The pool is two metres ___. Its ___ is marked on the wall.",
+        "answer": "deep; depth。第一空需形容词，第二空需名词。"
+      },
+      {
+        "question": "为什么 We estimate the cost at $80 不保证最终花费恰为80美元？",
+        "answer": "estimate 表示根据现有信息作近似估算，金额可能随着信息更新而变化。"
+      }
+    ]
+  },
+  "4-4": {
+    "focus": "从观察到假设",
+    "vocabulary": [
+      {
+        "word": "social",
+        "explanation": "与群体中相互联系、共同生活有关；不只表示爱交际。",
+        "example": "Shared meals are an important social activity in this town."
+      },
+      {
+        "word": "survive",
+        "explanation": "在危险或困难之后继续存在；可直接接灾难等宾语。",
+        "example": "Several old trees survived the unusually cold winter."
+      },
+      {
+        "word": "colony",
+        "explanation": "共同生活在同一区域的一群同种生物；也有历史上的殖民地义。",
+        "example": "A colony of ants formed beside the stone steps."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "改错：The seedlings survived from the frost.",
+        "answer": "The seedlings survived the frost. survive 表示挺过某次灾害时可直接接宾语。"
+      },
+      {
+        "question": "colony 在 an ant colony 中与在 a former overseas colony 中含义相同吗？",
+        "answer": "不同。前者是蚂蚁群体，后者是历史上的海外殖民地；需依语境判义。"
+      }
+    ]
+  }
+}

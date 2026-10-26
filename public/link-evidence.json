@@ -1,0 +1,23 @@
+[
+  {
+    "book": 2,
+    "directory": "https://www.bubeijuzi.com/nce/2",
+    "checkedAt": "2026-10-26T01:49:24.875Z",
+    "status": 200,
+    "lessonLinks": 96
+  },
+  {
+    "book": 3,
+    "directory": "https://www.bubeijuzi.com/nce/3",
+    "checkedAt": "2026-10-26T01:49:24.879Z",
+    "status": 200,
+    "lessonLinks": 60
+  },
+  {
+    "book": 4,
+    "directory": "https://www.bubeijuzi.com/nce/4",
+    "checkedAt": "2026-10-26T01:49:25.678Z",
+    "status": 200,
+    "lessonLinks": 48
+  }
+]
